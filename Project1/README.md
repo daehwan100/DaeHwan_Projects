@@ -10,7 +10,7 @@
 ## 데이터
 
 * 국방부 공군 신체측정정보 (2022년 1분기, 2022년 2분기)
-![image](https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/c957b73a-5cb4-43ba-8788-06298ee38d18)
+* ![image](https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/c957b73a-5cb4-43ba-8788-06298ee38d18)
 
 
 ## 개발 환경 설정
