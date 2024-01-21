@@ -32,3 +32,12 @@
 
 ![image](https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/deaaea20-24e8-4fee-aafc-c35fdb826c73)
 
+* 위 식을 이용한 예측 분포
+
+  ![image](https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/70377fed-da87-4c52-8356-da8fe37a560d)
+  ![image](https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/f0985eec-1e50-4013-bbe6-41f7104785d5)
+
+### HPD Interval과 고전적 신뢰구간의 비교
+
+![image](https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/80a17985-d0b9-40b9-b597-140a6d163c96)
+
