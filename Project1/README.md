@@ -5,19 +5,7 @@
 베이지안 이론을 이용해 사후분포를 예측해보았음.
 
 
-## 설치 방법
-
-OS X & 리눅스:
-
-```sh
-npm install my-crazy-module --save
-```
-
-윈도우:
-
-```sh
-edit autoexec.bat
-```
+## 사용 프로그램 < R >
 
 ## 사용 예제
 
