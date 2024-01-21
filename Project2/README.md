@@ -14,22 +14,22 @@
 
 * Kaggle의 점자문자 이미지 데이터 셋
 
-![image](https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/4881c235-991b-496b-8574-807471187223)
+<img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/4881c235-991b-496b-8574-807471187223.png" width="400" height="200"/>
 
 ## 데이터 증강
 * CNN 성능을 높이기 위해 대비 및 색상, 흐림정도를 변경하여 데이터 개수를 10배수 늘림
 
-![image](https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/2016a91e-df1d-4351-9518-353f93895d40)
+<img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/2016a91e-df1d-4351-9518-353f93895d40.png" width="400" height="200"/>
 
 ## 데이터셋 구성
 * Test:Train:Validation = 15:15:70 으로 구성
 
 ## CNN 모델 구성
-![image](https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/09684cc6-2d25-437a-95f3-734db741dfec)
+<img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/09684cc6-2d25-437a-95f3-734db741dfec.png" width="400" height="200"/>
 
 * Optimizer, epoch, batchsize, Dropout의 하이퍼파라미터를 튜닝하며 최적의 모델을 찾음
 
-![image](https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/10dcda50-078b-41a6-ae54-401e079240c8)
+<img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/10dcda50-078b-41a6-ae54-401e079240c8.png" width="400" height="200"/>
 
 ## 한계
 * train, validation, test 데이터들을 높은 정확도로 끌어내었지만,
