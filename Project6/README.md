@@ -26,34 +26,20 @@
   - 나온 사람(아동)에 대해서 SAM_vit_huge를 사용하여 mask 진행
   - 진행된 이미지 데이터들은 ground_truth_mask로 지정
   - fine-tuning을 위해 데이터 사이즈 변경 (2160 * 3840) -> (1024 * 1024)
- 
-![image](https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/5d791b1d-33f0-472b-b78e-bb308e235c7f)
+    
+<img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/5d791b1d-33f0-472b-b78e-bb308e235c7f.png" width="400" height="200"/>
 
 ![image](https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/86063704-4ebd-444c-b4f4-50cb8c10e4da)
 
-## 분석 알고리즘
+* 위와 같은 과정으로 진행
 
-* ML Algorithm (MultiLinearRegression)
+* 학습률, 손실함수, Optimizer등의 하이퍼파라미터를 변경해가며 IoU값을 가장 높게 만듦
 
-* Ensemble Algorithm (RandomForest, GradientBoostRegression, XGBoostRegression, CatBoostRegression)
+* 학습에 사용되지 않은 새로운 이미지를 넣었을 때, 약 0.85 이상의 IoU값들이 나오는 것을 확인
+  
+<img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/e77aba82-1cef-425b-bbbb-9056215f8b34.png" width="400" height="200"/>
 
-## 결론 및 한계점
-
-* Catboost 모델의 정확도를 최대로 끌어올렸지만, 데이터 탐색 및 전처리 과정인 Interpolation 과정에서 성능이 갈렸다고 생각함.
-  - 결측치가 몰려있던 경우에 대해서 선형적으로 보간했다는 문제점이라 판단.
-    
-* 이후, 이를 보완한 보간 방법인 NAOMI, BRITS를 학습할 수 있는 계기가 됨.
-
-
-
-
-
-
-
-
-
-
-
+## 시연 영상
 
 https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/4d3bf3fa-1911-4230-8b9e-dcacad99207e
 
