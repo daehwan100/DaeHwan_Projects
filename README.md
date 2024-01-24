@@ -1,7 +1,7 @@
 # Paper Review
   - Attention is all you need
   - DETR
-  - Segment anything model
+  - Segment Anything Model
 
 ---
 
