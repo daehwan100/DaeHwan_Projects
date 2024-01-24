@@ -7,7 +7,7 @@
 
 * GridSearch를 사용하여 Hyperparameter 튜닝을 통해 정확도 향상
 
-* 지상기상 데이터를 ML & Ensemble 기법들로 코딩을 통해 분석 및 적용하고, 최적의 모델을 찾기 위해 비교해 봄
+* 지상 기상 데이터를 ML & Ensemble 기법들로 코딩을 통해 분석 및 적용하고, 최적의 모델을 찾기 위해 비교해 봄
 
 ## Project Period
 
