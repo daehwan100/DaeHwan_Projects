@@ -1,8 +1,9 @@
 # Project 2 - CNN(Convolution Neural Network)을 활용한 점자문자 이미지 분석
 > 사용 프로그램 < Python(Spyder) >
 
-* 점자문자 이미지 데이터(알파벳)를 CNN으로 학습하여 Classification 하는 모델
-* CNN 알고리즘의 과적합 방지 및 최적화 하는 과정에 대해 직접 구현해보며 학습함 
+* 점자문자 이미지 데이터(알파벳)를 CNN(7개의 층)으로 학습하여 Classification 하는 모델
+  
+* CNN 알고리즘의 과적합 방지 및 최적화 하는 과정에 대해 직접 구현해보며 학습함
 
 ## Project Period
 
@@ -25,9 +26,12 @@
 * Train:Test:Validation = 72.25:15:12.25 으로 구성
 
 ## CNN Model
+
 <img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/09684cc6-2d25-437a-95f3-734db741dfec.png" width="400" height="200"/>
 
-* Optimizer, epoch, batchsize, Dropout의 Hyperparameter를 튜닝하며 성능, 시간적인 면에서 최적의 모델을 찾음
+* 시행착오를 통해 위와 같은 CNN 구조가 가장 성능이 좋았음
+
+* 또한 Optimizer, epoch, batchsize, Dropout의 Hyperparameter를 튜닝하며 성능, 시간적인 면에서 최적의 모델을 찾음
 
 * Optimizer Adam, Epoch 10, Batchsize 128, Dropout 0.2
 
