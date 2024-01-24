@@ -1,19 +1,18 @@
 # Project 4
 > 대기질 및 기상 데이터를 사용한 미세먼지 예측 모델
- 
-* ML 알고리즘 (LogisticRegression, KNN, DecisionTree, SVM)
+> 사용 프로그램 < Python >
+
+* ML (LogisticRegression, KNN, DecisionTree, SVM)
   
-* Ensemble 알고리즘 (RandomForest, AdaBoost, GradientBoost, XGBoost)
+* Ensemble (RandomForest, AdaBoost, GradientBoost, XGBoost)
 
 * 머신러닝과 앙상블 모델을 코딩을 통해 적용하여 깊은 이해 및 학습.
 
-> 사용 프로그램 < Python >
-
-## 기간
+## Project Period
 
 * 2023.04 - 2022.06
 
-## 데이터
+## Data
 
 * AirKorea의 대기질 데이터, 기상자료개방포털의 기상에 대한 데이터
 
@@ -28,16 +27,16 @@
 * 1시간 단위로 분석 진행
 
 
-## 분석 알고리즘
+## Analysis Algorithm
 
 * ML 알고리즘 (LogisticRegression, KNN, DecisionTree, SVM)
   
 * Ensemble 알고리즘 (RandomForest, AdaBoost, GradientBoost, XGBoost)
 
 
-## 결론 및 한계점
+## Conclusion
 
-* ML, Ensemble에 사용되는 하이퍼파라미터들이 성능 및 과적합에 어떤 영향을 주는지 파악할 수 있었음. 
-* ML보다 Ensemble 기법들의 정확도가 다소 높았으며, 그 중 XGBoost의 정확도가 가장 높았음.
+* ML, Ensemble에 사용되는 Hyperparameter들이 성능 및 과적합에 어떤 영향을 주는지 파악할 수 있었음
+* ML보다 Ensemble 기법들의 정확도가 다소 높았으며, 그 중 XGBoost의 정확도가 가장 높았음
 
-* 적은 개수를 가진 범주에 대해서는 다소 아쉬운 정확도를 나타냈음.
+* 적은 개수를 가진 범주에 대해서는 다소 아쉬운 정확도를 나타냈음
