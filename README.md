@@ -2,7 +2,9 @@
   - Attention is all you need
   - DETR
   - Segment anything model
-    
+
+---
+
 # Projects
 > Simple descriptions and materials of the projects
 
