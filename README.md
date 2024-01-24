@@ -1,10 +1,3 @@
-# Paper Review
-  - Attention is all you need
-  - DETR
-  - Segment Anything Model
-
----
-
 # Projects
 > Simple descriptions and materials of the projects
 
@@ -45,3 +38,12 @@
 - 실종 아동 Segmentation 및 Tracking 기반 CCTV 솔루션 **(고려대학교 SW 아카데미 대회)**
   
     - Segmentation: Segment Anything Model. SAM (2023), Tracking: XMem(2022), Fine-Tuning
+ 
+---
+
+# Paper Review
+  - Attention is all you need
+  - DETR
+  - Segment Anything Model
+
+---
