@@ -5,7 +5,7 @@
 
 * ML & Ensemble (SVR, KNR, LGBM, XGBoost)
 
-* RNN(Recurrent Neural Network) (LSTM, GRU)를 이용하여 분석 진행
+* RNN(Recurrent Neural Network) (LSTM, GRU), GridSearch 를 이용하여 분석 진행
 
 * 위성 기상 데이터를 다양한 기법들로 코딩을 통해 분석하고, 튜닝해가며 최적의 모델을 찾기 위해 비교해 봄
 
