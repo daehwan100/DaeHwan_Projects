@@ -7,7 +7,7 @@
 
 * RNN(Recurrent Neural Network) (LSTM, GRU)
 
-* GridSearch
+* GridSearch를 사용하여 Hyperparameter 튜닝을 통해 정확도 향상
   
 * 위성 기상 데이터를 다양한 기법들로 코딩을 통해 분석하고, 튜닝해가며 최적의 모델을 찾기 위해 비교해 봄
 
