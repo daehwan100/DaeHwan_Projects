@@ -5,7 +5,7 @@
   
 * Ensemble (RandomForest, AdaBoost, GradientBoost, XGBoost)
 
-* 머신러닝과 앙상블 모델을 코딩을 통해 적용하여 깊은 이해 및 학습.
+* 지상기상 데이터를 ML & Ensemble 기법들로 코딩을 통해 분석 및 적용하고, 최적의 모델을 찾기 위해 비교해 봄
 
 ## Project Period
 
