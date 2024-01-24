@@ -1,7 +1,6 @@
-# Project 6
+# Project 6 - 실종 아동 Segmentation 및 Tracking 기반 CCTV 솔루션
 > 2024 지능정보 SW 아카데미 경진대회
-
-> 실종 아동 Segmentation 및 Tracking 기반 CCTV 솔루션
+> 사용 프로그램 < Python(Colab, pycharm) >
 
 * Segmentation: Segment Anything Model. SAM (2023)
 
@@ -9,13 +8,11 @@
 
 * 아동 CCTV 영상 데이터로 fine-tuning을 통한 성능 향상
 
-> 사용 프로그램 < Python(Colab, pycharm) >
-
-## 기간
+## Project Period
 
 * 2023.10 - 2023.12
 
-## 데이터 및 fine-tuning 과정
+## Data & fine-tuning Process
 
 * AI허브의 [어린이 보호구역 내 어린이 도로보행 위험행동 영상] 데이터
 
@@ -33,13 +30,13 @@
 
 * 위와 같은 과정으로 진행
 
-* 학습률, 손실함수, Optimizer등의 하이퍼파라미터를 변경해가며 IoU값을 가장 높게 만듦
+* LearningRate, LossFunction, Optimizer등의 Hyperparameter를 변경해가며 IoU값을 가장 높게 만듦
 
 * 학습에 사용되지 않은 새로운 이미지를 넣었을 때, 약 0.85 이상의 IoU값들이 나오는 것을 확인
   
 <img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/e77aba82-1cef-425b-bbbb-9056215f8b34.png" width="400" height="200"/>
 
-## 시연 영상
+## Demonstration Video
 
 https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/4d3bf3fa-1911-4230-8b9e-dcacad99207e
 
