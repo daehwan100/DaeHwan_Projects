@@ -1,4 +1,9 @@
-# DaeHwan100 Projects
+# Paper Review
+  - Attention is all you need
+  - DETR
+  - Segment anything model
+    
+# Projects
 > Simple descriptions and materials of the projects
 
 ## Project 1
