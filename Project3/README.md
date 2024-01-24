@@ -34,7 +34,7 @@
 
 * ML: SVR, KNR, LGBM, XGBoost
 
-* DL :LSTM, GRU
+* DL: LSTM, GRU
 
 * LSTM, GRU 알고리즘
   
