@@ -5,9 +5,9 @@
 
 * ML (MultiLinearRegression)
 
-* Ensemble Algorithm (RandomForest, GradientBoostRegression, XGBoostRegression, CatBoostRegression)
+* Ensemble (RandomForest, GradientBoostRegression, XGBoostRegression, CatBoostRegression)
   
-* GridSearch와 Optuna를 사용하여 Hyperparameter 튜닝
+* GridSearch와 Optuna를 사용하여 Hyperparameter 튜닝을 통해 정확도 향상
 
 ## Project Period
 
