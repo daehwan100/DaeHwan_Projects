@@ -34,5 +34,6 @@
 <img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/10dcda50-078b-41a6-ae54-401e079240c8.png" width="400" height="200"/>
 
 ## Conclusion
-* train, validation, test 데이터들에 대해 높은 정확도를 끌어내었지만,
-  비슷한 패턴의 점자문자 이미지들에서만 높은 성능을 보이므로 실생활 사용에는 한계가 있음
+* train, validation, test 데이터들에 대해 높은 정확도를 끌어내었음
+  
+* 하지만 비슷한 패턴의 점자문자 이미지들로만 학습하였기 때문에 높은 성능을 보였으므로, 실생활 사용에는 한계가 있음
