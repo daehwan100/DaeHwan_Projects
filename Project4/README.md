@@ -1,5 +1,5 @@
 # Project 4 - 대기질 및 기상 데이터를 사용한 미세먼지 예측 모델
-> 사용 프로그램 < Python(Jupyter Notebook) >
+> 사용 프로그램 < Python(JupyterNotebook) >
 
 * ML (LogisticRegression, KNN, DecisionTree, SVM)
   
