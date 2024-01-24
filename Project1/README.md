@@ -25,6 +25,9 @@
 <img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/308c9ec5-636e-418e-9ab9-915692929208.png" width="400" height="200"/>
 
 ## 분석 과정
+
+  - Bayesian Theory: 일어나지 않은 사건에 대한 확률(불확실성)을 사건과 관련있는 여러 확률을 사용해 추정하는 것
+
 <img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/2c7b7c23-c272-40e9-85a5-05c2321563c5.png" width="400" height="200"/>
 
 ---
