@@ -46,4 +46,8 @@
 ### HPD Interval과 고전적 신뢰구간의 비교
 <img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/80a17985-d0b9-40b9-b597-140a6d163c96.png" width="400" height="200"/>
 
+## 결론
 
+* 사전분포를 이용해 사후분포를 예측하는 과정, HPD Interval과 고전적 신뢰구간을 비교하는 과정을 코딩으로 직접 구현하여 더 깊은 이해가 가능했음.
+  
+* 빈도주의 통계, 베이지안 통계에 대한 차이점을 알게 됨.
