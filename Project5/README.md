@@ -1,6 +1,7 @@
 # Project 5 - 지상 기상 데이터를 활용한 지면온도 예측
 > 2023 기상청 공모전
-> 사용 프로그램 < Python >
+
+> 사용 프로그램 < Python(Colab, JupyterNotebook) >
 
 * ML (MultiLinearRegression)
 
