@@ -1,11 +1,11 @@
-# Project 3 -  기상 위성 자료를 활용한 지면온도 예측
+# Project 3 - 위성 기상 데이터를 사용한 지면온도 예측
 > 2022 기상청 공모전
 
 > 사용 프로그램 < Python(Colab, JupyterNotebook) >
 
 * ML & Ensemble (SVR, KNR, LGBM, XGBoost)과 RNN(Recurrent Neural Network) (LSTM, GRU)를 이용하여 분석 진행
 
-* 데이터를 다양한 기법들로 코딩을 통해 분석하고, 튜닝해가며 최적의 모델을 찾기 위해 비교해 봄
+* 위성 기상 데이터를 다양한 기법들로 코딩을 통해 분석하고, 튜닝해가며 최적의 모델을 찾기 위해 비교해 봄
 
 
 ## Project Period
