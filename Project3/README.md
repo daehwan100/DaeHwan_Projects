@@ -47,4 +47,4 @@
 
 ## Conclusion
 
-* Hyperparameter를 튜닝해가며 분석한 결과, ML 기법 중 SVR 모델이 성능이 가장 좋게 나왔고, 딥러닝 기법에서는 LSTM이 높게 나왔음
+* Hyperparameter를 튜닝해가며 분석한 결과, ML 기법 중 SVR, DeepLearning 기법 중 LSTM이 높은 정확도를 보임
