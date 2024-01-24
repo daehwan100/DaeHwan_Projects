@@ -28,9 +28,9 @@
 
 ## Analysis Algorithm
 
-* ML (LogisticRegression, KNN, DecisionTree, SVM)
+* ML Algorithm (LogisticRegression, KNN, DecisionTree, SVM)
   
-* Ensemble (RandomForest, AdaBoost, GradientBoost, **XGBoost**)
+* Ensemble Algorithm (RandomForest, AdaBoost, GradientBoost, **XGBoost**)
 
 
 ## Conclusion
