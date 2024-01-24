@@ -1,9 +1,8 @@
 # Project 2 - CNN(Convolution Neural Network)을 활용한 점자문자 이미지 분석
+> 사용 프로그램 < Python >
 
 * 점자문자 이미지 데이터(알파벳)를 CNN으로 학습하여 Classification 하는 모델
 * CNN 알고리즘의 과적합 방지 및 최적화 하는 과정에 대해 직접 구현해보며 학습함 
-
-> 사용 프로그램 < Python >
 
 ## Project Period
 
