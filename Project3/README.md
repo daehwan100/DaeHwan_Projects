@@ -36,15 +36,15 @@
 
 ## Analysis Algorithm
 
-* ML: SVR, KNR, LGBM, XGBoost
+* ML Algorithm (SVR, KNR, LGBM, XGBoost)
 
-* DL: LSTM, GRU
+* DL Algorithm (LSTM, GRU)
 
-* LSTM, GRU 알고리즘
+* LSTM, GRU Algorithm
   
 ![image](https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/c3fd4c29-b76c-4452-b351-9255546849cf)
 
-* 시점을 이용한 make_dataset 알고리즘
+* 시점을 이용한 make_dataset Algorithm
   
 ![image](https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/87fda812-9557-485d-9548-ca49270681ae)
 
