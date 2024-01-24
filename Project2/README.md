@@ -16,16 +16,20 @@
 
 ## Data Augmentation
 * CNN 성능을 높이기 위해 대비 및 색상, 흐림정도를 변경하여 데이터 개수를 10배수 늘림
+* 총 11440개의 데이터
 
 <img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/2016a91e-df1d-4351-9518-353f93895d40.png" width="400" height="200"/>
 
 ## DataSet
-* Test:Train:Validation = 15:15:70 으로 구성
+
+* Train:Test:Validation = 72.25:15:12.25 으로 구성
 
 ## CNN Model
 <img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/09684cc6-2d25-437a-95f3-734db741dfec.png" width="400" height="200"/>
 
-* Optimizer, epoch, batchsize, Dropout의 하이퍼파라미터를 튜닝하며 최적의 모델을 찾음
+* Optimizer, epoch, batchsize, Dropout의 Hyperparameter를 튜닝하며 성능, 시간적인 면에서 최적의 모델을 찾음
+
+* Optimizer Adam, Epoch 10, Batchsize 128, Dropout 0.2
 
 <img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/10dcda50-078b-41a6-ae54-401e079240c8.png" width="400" height="200"/>
 
