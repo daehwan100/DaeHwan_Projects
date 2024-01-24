@@ -6,7 +6,7 @@
 
 * Tracking: XMem(2022)
 
-* 아동 CCTV 영상 데이터로 fine-tuning을 통한 성능 향상
+* 위 두 모델을 사용하였고, 아동 CCTV 영상 데이터로 fine-tuning을 통해 성능 향상시킴
 
 ## Project Period
 
