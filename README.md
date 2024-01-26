@@ -13,7 +13,7 @@
 
 - 기상 위성 자료를 활용한 지면온도 예측 **(2022 기상청 공모전)**
   
-  - ML & Ensemble (SVR, KNR, LGBM, XGBoost), RNN(Recurrent Neural Network) (LSTM, GRU)
+  - ML & Ensemble (SVR, KNR, LGBM, XGBoost), RNN(Recurrent Neural Network) (LSTM, GRU, CNN-LSTM)
     
   - GridSearch, DownSampling, ADF Test, KPSS Test
 
