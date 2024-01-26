@@ -5,7 +5,7 @@
 
 * ML & Ensemble (SVR, KNR, LGBM, XGBoost)
 
-* RNN(Recurrent Neural Network) (LSTM, GRU)
+* RNN(Recurrent Neural Network) (LSTM, GRU, CNN-LSTM)
 
 * GridSearch를 사용하여 Hyperparameter 튜닝을 통해 정확도 향상
   
