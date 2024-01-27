@@ -13,7 +13,7 @@
 
 ## Data
 
-* 국방부 공군 신체측정정보 (2021년 1분기, 2021년 2분기)
+* 공공데이터 포털, 국방부 공군 신체측정정보 (2021년 1분기, 2021년 2분기)
 * 1분기 325개, 2분기 330개
   
   <img src="https://github.com/daehwan100/DaeHwan_Projects/assets/141620597/c957b73a-5cb4-43ba-8788-06298ee38d18.png" width="400" height="200"/>
