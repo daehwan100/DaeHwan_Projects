@@ -44,6 +44,6 @@
 # Paper Review
   - Attention is all you need
   - DETR
-  - Segment Anything Model
-
+  - Segment Anything Model(SAM)
+  - Track Anything Model(TAM)
 ---
